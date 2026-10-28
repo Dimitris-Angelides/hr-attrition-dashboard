@@ -29,4 +29,5 @@ A three-part dashboard story on employee attrition: what drives it, where HR sho
 ## About this project
 
 Built with Claude as a comparison with the same story built in Tableau Public.
-Tableau version: [here](https://public.tableau.com/app/profile/dimitris.angelides/viz/HumanResourcePeopleAnalytics/Drivers)
+
+Feel free to explore the Tableau version: [here](https://public.tableau.com/app/profile/dimitris.angelides/viz/HumanResourcePeopleAnalytics/Drivers)
