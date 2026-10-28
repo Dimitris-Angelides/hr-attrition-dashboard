@@ -1,2 +1,36 @@
-# hr-attrition-dashboard
-HR attrition dashboard story built with Claude: what drives it, where to focus, and what fixing it is worth.
+# Human Resource & People Analytics
+
+A three-part dashboard story on employee attrition: what drives it, where HR should focus, and what fixing it is worth.
+
+**🔗 [View the live dashboard](https://dimitris-angelides.github.io/hr-attrition-dashboard/)**
+
+![Dashboard preview](preview.png)
+
+## The story
+
+| Dashboard | Question |
+|---|---|
+| 1 | What's driving attrition? |
+| 2 | Where should HR focus retention efforts? |
+| 3 | What's the payoff of fixing this? |
+
+## How to read it
+
+- **Orange** marks the key finding in each chart
+- **Dashed line** shows the company average
+- **Titles** state the answer, and subtitles state the question
+
+## Data
+
+- Employee Attrition Classification Dataset (74,498 employees)
+- 12-month retention projection (status quo vs improved scenario)
+- Cost assumption: each exit costs half a year's salary
+
+## About this project
+
+Built with Claude as a comparison with the same story built in Tableau Public.
+Tableau version: [[link to your Tableau Public viz](https://public.tableau.com/app/profile/dimitris.angelides/viz/HumanResourcePeopleAnalytics/Drivers)]
+
+## Author
+
+**Dimitris Angelides** · [LinkedIn](https://www.linkedin.com/in/your-profile)
