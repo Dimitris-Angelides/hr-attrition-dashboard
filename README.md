@@ -4,7 +4,7 @@ A three-part dashboard story on employee attrition: what drives it, where HR sho
 
 **🔗 [View the live dashboard](https://dimitris-angelides.github.io/hr-attrition-dashboard/)**
 
-![Dashboard preview](preview.png)
+![What's driving attrition?](what-is-driving-attrition.png)
 
 ## The story
 
